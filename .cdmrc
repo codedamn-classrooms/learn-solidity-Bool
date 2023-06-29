@@ -1,0 +1,2 @@
+tabs: ['contracts/Bool.sol']
+terminals: ['yarn install']
